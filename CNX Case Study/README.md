@@ -1,3 +1,6 @@
+<img width="1465" height="1095" alt="image" src="https://github.com/user-attachments/assets/f826da80-b34f-4888-bb01-d703945975d7" />
+
+
 # CNX Case Study
 
 ## Situation
